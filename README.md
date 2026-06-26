@@ -57,6 +57,3 @@ The findings highlight strong AI adoption, particularly through tools such as Ch
 
 - AI_Survey.xlsx — Excel workbook containing the analysis and dashboard.
 - AI_Survey.png — Dashboard preview image.
-
-- AI_Survey.xlsx — Excel workbook containing the analysis and dashboard.
-- AI_Survey.png — Dashboard preview image.
