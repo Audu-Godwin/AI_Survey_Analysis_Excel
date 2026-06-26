@@ -4,7 +4,7 @@ This project analyzes Artificial Intelligence (AI) survey data using Microsoft E
 
 ## Dashboard Preview
 
-![AI Survey Dashboard](AI_Survey.png)
+![AI Survey Dashboard](AI%20Survey.png)
 
 ## Tools Used
 
