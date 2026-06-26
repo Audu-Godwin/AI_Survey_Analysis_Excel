@@ -7,7 +7,7 @@ This project analyzes Artificial Intelligence (AI) survey data using Microsoft E
 ![AI Survey Dashboard](AI%20Survey.png)
 
 ## Tools Used
-
+- Google Sheet
 - Microsoft Excel
 - Power Query
 
