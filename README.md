@@ -1,4 +1,4 @@
-# Artificial Intelligence (AI) Students Survey Anal;ysis
+# Artificial Intelligence (AI) Students Survey Analysis
 
 This project analyzes Artificial Intelligence (AI) survey data using Google Sheet and Microsoft Excel. The analysis involved dala collection, data cleaning, pivot table analysis, dashboard creation, and generating insights on AI usage patterns and perceptions.
 
