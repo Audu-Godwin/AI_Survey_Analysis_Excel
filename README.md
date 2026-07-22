@@ -6,7 +6,7 @@ This project analyzes Artificial Intelligence (AI) survey data using Google Shee
 
 ## Dashboard Preview
 
-![AI Survey Dashboard](AI%20Survey.png)
+![AI Survey Dashboard](AI_Survey.png)
 
 ## Tools Used
 - Google Sheet
